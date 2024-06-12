@@ -681,7 +681,7 @@ form input, form textarea{
 
 /*----------------------Responsive 01-------------------------*/
 
-@media only screen and (max-width: 530px) {
+@media screen and (max-width: 530px) {
     
     #navbar {
         padding: 20px 10px !important;
